@@ -12,7 +12,17 @@ To become a software development manager, a bachelor's degree in Computer Scienc
 ### **Required Skills and Qualities**
 
 #### Technical 
+* strong technical and analytic skills 
+* expert knowledge of programming languages, platforms, and methods 
+* troubleshooting skills 
+* assess complex programming applications 
+* adaptable to keep up with new software and systems 
+
 #### Non-Technical 
+* excellent written and verbal communication skills 
+* collaboration skills to work with others in the team 
+* strong budgeting and managerial skills 
+* leadership skills to mentor, train, and evaluate 
 
 ### **Example Jobs** 
 
