@@ -7,6 +7,7 @@ A software developement manager plans and manages all activities related to writ
 ### **Duties and Reponsibilities**
 
 ### **Required Education**
+To become a software development manager, a bachelor's degree in Computer Science, Software Engineering, or Information Technology is required. As a manager, employers may require a Masters degree or Masters of Business Administration for senior level positions. Employers also prefer managers with lots of experience in the field as the job requires extensive training. 
 
 ### **Required Skills and Qualities**
 
