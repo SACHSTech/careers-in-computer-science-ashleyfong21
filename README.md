@@ -2,6 +2,7 @@
 # Careers in Computer Science
 
 ## Software Development Manager
+A software developement manager plans and manages all activities related to writing programs and coding. They must be familiar with all the policies, procedures, and technical issues related to software programming. The software development manager is the go-to person when it comes to developing and the developers of a project. They are in charge of coordinating the activities of the software developing team of a company or project. 
 
 ### **Duties and Reponsibilities**
 
