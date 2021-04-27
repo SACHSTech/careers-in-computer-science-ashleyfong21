@@ -26,6 +26,9 @@ To become a software development manager, a bachelor's degree in Computer Scienc
 * strong budgeting and managerial skills 
 * leadership skills to mentor, train, and evaluate 
 
+### **Salary Range** 
+The average software development manager salary in Canada is $140,000 per year or $71.79 per hour.
+
 ### **Example Jobs** 
 
 #### [Entry Level](https://ca.indeed.com/viewjob?cmp=SpeedLine-Solutions-Inc.&t=Software+Development+Manager&jk=2ee7e61338d6a1de&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp2mgGx4Vnp4LSSA72WT-k1EUhaTn5DaYzBBHiGzAUTTCvONoYE9pH-TTWB2ywuXrY4&tk=1f42ofic4t5dt801&adid=367563199&ad=-6NYlbfkN0AxK9PpRSCdz1a9_1O_Kxdozng6aUI21uswYithmJvazSA_wFhoZxi-UM-HOofY-eD-LGHZUIjbrwDgk0affkl_CxqmPEBbEbVDv4fhGndBAIIzilO1bZeIPXLavv90D0UVmnU2bS5DweZJyZDWv8BvjrLpz7X3hYWiGEpdFn9vRQJ3oRLgfng89jh6HFk6T1A80P-lpNVobN2246hWFV3o5wH9SxKDpu30Kb8K3pL9jQ3kQmR5gKCVQAfZb670iY2aRhkr6Y5I4__VeAKN6KyhsSwJLqQ0dhDv5VhdkikNVIOTblhT55T5vcIU0MX3VxO4R2QoV5xXrA%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&vjs=3 )
@@ -103,3 +106,5 @@ A Canadian university that offers entrance to a Computer Science program is the 
 * 5 Years with Co-op Program 
 
 ### **Experiential Learning Opportunities** 
+
+### **Works Cited** 
