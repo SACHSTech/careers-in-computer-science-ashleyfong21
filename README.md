@@ -62,6 +62,7 @@ To become a software development manager, a bachelor's degree in Computer Scienc
   * 1+ year experience with Unix/Linux, C++ or Java, OO, and Service Oriented Architecture.
 
 ### **Example Post Secondary Education**
+A Canadian university that offers entrance to a Computer Science program is the University of Waterloo. They also offer the degree with a co-op option. 
 
 #### Entrance Requirments 
 * six Grade 12 U and/or M level courses
