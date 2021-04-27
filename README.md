@@ -1,5 +1,6 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4632658&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science
+![alt text](https://lvivity.com/wp-content/uploads/2019/09/project-manager.jpg)
 
 ## Software Development Manager
 A software developement manager plans and manages all activities related to writing programs and coding. They must be familiar with all the policies, procedures, and technical issues related to software programming. The software development manager is the go-to person when it comes to developing and the developers of a project. They are in charge of coordinating the activities of the software developing team of a company or project. 
@@ -28,6 +29,7 @@ To become a software development manager, a bachelor's degree in Computer Scienc
 ### **Example Jobs** 
 
 #### [Entry Level](https://ca.indeed.com/viewjob?cmp=SpeedLine-Solutions-Inc.&t=Software+Development+Manager&jk=2ee7e61338d6a1de&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp2mgGx4Vnp4LSSA72WT-k1EUhaTn5DaYzBBHiGzAUTTCvONoYE9pH-TTWB2ywuXrY4&tk=1f42ofic4t5dt801&adid=367563199&ad=-6NYlbfkN0AxK9PpRSCdz1a9_1O_Kxdozng6aUI21uswYithmJvazSA_wFhoZxi-UM-HOofY-eD-LGHZUIjbrwDgk0affkl_CxqmPEBbEbVDv4fhGndBAIIzilO1bZeIPXLavv90D0UVmnU2bS5DweZJyZDWv8BvjrLpz7X3hYWiGEpdFn9vRQJ3oRLgfng89jh6HFk6T1A80P-lpNVobN2246hWFV3o5wH9SxKDpu30Kb8K3pL9jQ3kQmR5gKCVQAfZb670iY2aRhkr6Y5I4__VeAKN6KyhsSwJLqQ0dhDv5VhdkikNVIOTblhT55T5vcIU0MX3VxO4R2QoV5xXrA%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&vjs=3 )
+![alt text](https://biz.prlog.org/SpeedLineSolutions/logo.jpg)
 * **Salary:** $80,000 - $90,000 
 * **City:** Abbotsford, BC
 * **Job Description:** The Software Development Manager is primarily responsible for managing the department team members, while they build and ship quality software on time, ensuring a balance between efficiency, cost, and customer satisfaction. This position is also responsible for processes and projects, and ensures that the SpeedLine Development team has the skills, support, and environment they need to succeed. This includes reporting to and working with the Product & Senior Development Manager to contribute to and track the Product Roadmap.
@@ -41,6 +43,7 @@ To become a software development manager, a bachelor's degree in Computer Scienc
   * Have and maintain reliable transportation.
 
 #### [Mid Level](https://ca.indeed.com/viewjob?cmp=Kortext&t=Software+Development+Manager&jk=91337a87dd15b466&sjdu=0ZFwD5rbjMRcHz87Kzx_g56RE8uTOzMI6lFRz5oKCG6jKXSJpNAiKq15MUxAzfb25EkT8GdeKrIg3Xi44zf0iA&tk=1f3vt90e13kl8000&adid=367673658&ad=-6NYlbfkN0ATA-436Np_sDHyRyXgfnC7r)
+![alt text](https://www.kortext.com/wp-content/uploads/2019/08/kortext-purple.svg)
 * **Salary:** $90,000 - $120,000 
 * **City:** Greater Toronto Area, ON
 * **Job Description:** Kortext is a leading eTextbook provider, serving universities globally. We are recruiting a Software Development Manager to help develop market leading software aimed primarily at the Higher Education market. The Software Development Manager is responsible for working as part of a team whose overall objective is to develop and deploy new functionality for the Kortext Learning Platform. This role requires a seasoned development professional with a track record of developing world class software with the ability to competently manage teams in an agile environment.
@@ -52,6 +55,7 @@ To become a software development manager, a bachelor's degree in Computer Scienc
   * Willingness to get your hands dirty with coding to solve problems where necessary
 
 #### [Senior Level](https://ca.indeed.com/viewjob?jk=27faa1d939e247e9&tk=1f43d85c6t4a8801&from=serp&vjs=3) 
+![alt text](https://images-na.ssl-images-amazon.com/images/I/31%2BDgxPWXtL.jpg)
 * **Salary:** $123,600 - $206,400 
 * **City:** Toronto. ON
 * **Job Description:** As a Software Development Manager, you will lead your team of high performing engineers to build, scale, monitor, and optimize platforms, systems, and services. Our mission is to provide a world-class customer experience using scalable and robust software, so the challenges and opportunities span both the business and technical realms. A successful candidate will be a hands-on manager with an established background in developing high volume and highly available services, strong technical ability, great communication skills, and a motivation to achieve results in a dynamic fast paced environment.
