@@ -30,11 +30,25 @@ To become a software development manager, a bachelor's degree in Computer Scienc
 #### Mid Level 
 #### Senior Level 
 
-### **Post Secondary Education**
+### **Example Post Secondary Education**
 
 #### Entrance Requirments 
+* six Grade 12 U and/or M level courses
+* must include: 
+  * Advanced Functions
+  * Calculus and Vectors 
+  * Any Grade 12 U English 
+  * One other 4 U course 
+* Average in the low 90s 
+
 #### First Year Programs 
-#### Other Things to Complete
+
+
+#### Other Mandatory Courses to Complete
+
+
 #### Length of Time to Finish 
+* 4 Years 
+* 5 with Co-op Program 
 
 ### **Experiential Learning Opportunities** 
