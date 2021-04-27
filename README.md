@@ -3,8 +3,9 @@
 
 ## Software Development Manager
 A software developement manager plans and manages all activities related to writing programs and coding. They must be familiar with all the policies, procedures, and technical issues related to software programming. The software development manager is the go-to person when it comes to developing and the developers of a project. They are in charge of coordinating the activities of the software developing team of a company or project. 
-
+ 
 ### **Duties and Reponsibilities**
+A software development manager manages all the activities of the software development group. They set attainable goals to team members in order for the project to be finished on time and provide guidance to team members to encourage work productivity. They ensures appropriate procedures and processes are followed when it comes to software development. In meetings with higher levels of management, they would represent the software department. They might also review and revise product requirements and specifications, and provide technical support to other company personnel. Other duties include analyzing software requirements, implementing design plan, and monitoring status of developing software.  
 
 ### **Required Education**
 To become a software development manager, a bachelor's degree in Computer Science, Software Engineering, or Information Technology is required. As a manager, employers may require a Masters degree or Masters of Business Administration for senior level positions. Employers also prefer managers with lots of experience in the field as the job requires extensive training. 
@@ -95,6 +96,6 @@ A Canadian university that offers entrance to a Computer Science program is the 
 
 #### Length of Time to Finish 
 * 4 Years 
-* 5 with Co-op Program 
+* 5 Years with Co-op Program 
 
 ### **Experiential Learning Opportunities** 
