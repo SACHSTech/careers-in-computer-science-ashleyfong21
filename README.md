@@ -42,6 +42,14 @@ To become a software development manager, a bachelor's degree in Computer Scienc
 * Average in the low 90s 
 
 #### First Year Programs 
+| **Course Code and Name** | **Description** |
+| --------------- | ----------------|
+| CS 135 - Designing Functional Programs | An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. | 
+MATH 135 - Algebra | An introduction to the language of mathematics and proof techniques through a study of the basic algebraic systems of mathematics: the integers, the integers modulo n, the rational numbers, the real numbers, the complex numbers and polynomials. 
+MATH 137 - Calculus I | Absolute values and inequalities. Sequences and their limits. Introduction to series. Limits of functions and continuity. The Intermediate Value theorem and approximate solutions to equations. Derivatives, linear approximation, and Newton's method. The Mean Value theorem and error bounds. Applications of the Mean Value theorem, Taylor polynomials and Taylor's theorem, Big-O notation. 
+CS 136 - Algorithm Design and Data Abstraction | This course builds on the techniques and patterns learned in CS 135 while making the transition to use an imperative language. It introduces the design and analysis of algorithms, the management of information, and the programming mechanisms and methodologies required in implementations.
+MATH 136 - Linear Algebra I | Systems of linear equations, matrix algebra, elementary matrices, computational issues. Real n-space, vector spaces and subspaces, basis and dimension, rank of a matrix, linear transformations, and matrix representations. Determinants, eigenvalues and diagonalization, applications.
+MATH 138 - Calculus II | Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2.
 
 
 #### Other Mandatory Courses to Complete
