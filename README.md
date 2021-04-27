@@ -27,8 +27,39 @@ To become a software development manager, a bachelor's degree in Computer Scienc
 ### **Example Jobs** 
 
 #### Entry Level
+* **Salary:** $80,000 - $90,000 
+* **City:** Abbotsford, BC
+* **Job Description:** The Software Development Manager is primarily responsible for managing the department team members, while they build and ship quality software on time, ensuring a balance between efficiency, cost, and customer satisfaction. This position is also responsible for processes and projects, and ensures that the SpeedLine Development team has the skills, support, and environment they need to succeed. This includes reporting to and working with the Product & Senior Development Manager to contribute to and track the Product Roadmap.
+* **Additional Requirements:** 
+  * Ability to effectively estimate and contribute to business and technology solutions.
+  * Ability to work independently and as part of a team and foster a cooperative work environment.
+  * Excellent interpersonal, communication, customer service, leadership, motivational and team building skills.
+  * Track record of developing and motivating a development team.
+  * Proactive and energetic personality with the ability to effectively communicate with technical and non-technical stakeholders.
+  * Available to work a flexible schedule.
+  * Have and maintain reliable transportation.
+
 #### Mid Level 
+* **Salary:** $90,000 - $120,000 
+* **City:** Greater Toronto Area, ON
+* **Job Description:** Kortext is a leading eTextbook provider, serving universities globally. We are recruiting a Software Development Manager to help develop market leading software aimed primarily at the Higher Education market. The Software Development Manager is responsible for working as part of a team whose overall objective is to develop and deploy new functionality for the Kortext Learning Platform. This role requires a seasoned development professional with a track record of developing world class software with the ability to competently manage teams in an agile environment.
+* **Additional Requirements:** 
+  * Committed to excellence and capable of making tough decisions where necessary
+  * Track record of delivering results, change, and continuous improvement
+  * Experience of planning, managing and effectively executing complex projects
+  * Analytical and thinker with a structured approach to projects
+  * Willingness to get your hands dirty with coding to solve problems where necessary
+
 #### Senior Level 
+* **Salary:** $123,600 - $206,400 
+* **City:** Toronto. ON
+* **Job Description:** As a Software Development Manager, you will lead your team of high performing engineers to build, scale, monitor, and optimize platforms, systems, and services. Our mission is to provide a world-class customer experience using scalable and robust software, so the challenges and opportunities span both the business and technical realms. A successful candidate will be a hands-on manager with an established background in developing high volume and highly available services, strong technical ability, great communication skills, and a motivation to achieve results in a dynamic fast paced environment.
+* **Additional Requirements:** 
+  * 5+ years’ experience planning, designing, developing and delivering consumer software.
+  * 3+ years’ experience as a People Manager in a software development organization.
+  * 3+ years’ experience leading teams of 5+ (Managers, SDE’s, TPM’s, etc)
+  * 1+ year in hands-on experience with design and development of highly scalable web services and systems
+  * 1+ year experience with Unix/Linux, C++ or Java, OO, and Service Oriented Architecture.
 
 ### **Example Post Secondary Education**
 
