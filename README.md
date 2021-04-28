@@ -14,14 +14,14 @@ To become a software development manager, a bachelor's degree in Computer Scienc
 
 ### **Required Skills and Qualities**
 
-#### **Technical **
+#### **Technical**
 * strong technical and analytic skills 
 * expert knowledge of programming languages, platforms, and methods 
 * troubleshooting skills 
 * assess complex programming applications 
 * adaptable to keep up with new software and systems 
 
-#### **Non-Technical **
+#### **Non-Technical**
 * excellent written and verbal communication skills 
 * collaboration skills to work with others in the team 
 * strong budgeting and managerial skills 
@@ -73,7 +73,7 @@ The average software development manager salary in Canada is $140,000 per year o
 ### **Example Post Secondary Education**
 A Canadian university that offers entrance to a Computer Science program is the University of Waterloo. They also offer the degree with a co-op option. 
 
-#### **Entrance Requirments **
+#### **Entrance Requirments**
 * six Grade 12 U and/or M level courses
 * must include: 
   * Advanced Functions
@@ -82,7 +82,7 @@ A Canadian university that offers entrance to a Computer Science program is the 
   * One other 4 U course 
 * Average in the low 90s 
 
-#### **First Year Programs **
+#### **First Year Programs**
 | **Course Code and Name** | **Description** |
 | --------------- | ----------------|
 | CS 135 - Designing Functional Programs | An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. | 
@@ -111,12 +111,11 @@ A Canadian university that offers entrance to a Computer Science program is the 
 #### **Co-op**
 
 
-[Example](https://www.glassdoor.ca/job-listing/software-developer-co-op-oracle-JV_IC2286008_KO0,24_KE25,31.htm?jl=1007012418606&pos=103&ao=1136043&s=58&guid=0000017915b5c4758b498959e72d4f6d&src=GD_JOB_AD&t=SR&vt=w&cs=1_9ff4a643&cb=1619566904854&jobListingId=1007012418606&jrtk=1-1f4arbh543oht001-1f4arbh60u3ec800-879be92ff95e4564&ctt=1619566928352)
+[Example: Oracle Corporation](https://www.glassdoor.ca/job-listing/software-developer-co-op-oracle-JV_IC2286008_KO0,24_KE25,31.htm?jl=1007012418606&pos=103&ao=1136043&s=58&guid=0000017915b5c4758b498959e72d4f6d&src=GD_JOB_AD&t=SR&vt=w&cs=1_9ff4a643&cb=1619566904854&jobListingId=1007012418606&jrtk=1-1f4arbh543oht001-1f4arbh60u3ec800-879be92ff95e4564&ctt=1619566928352)
 
 *Description* 
 
 You will be responsible for designing, developing, troubleshooting and debugging software programs for databases, applications, tools, networks etc. Use basic knowledge of software architecture to perform tasks associated with developing, debugging or designing software applications or operating systems according to provided design specifications. Work will involve some basic problem solving with assistance and guidance in understanding and applying company policies and processes.
-
 
 *Responsibilities*
 * Get down and dirty by working on real-world technical problems
@@ -138,7 +137,7 @@ You will be responsible for designing, developing, troubleshooting and debugging
 
 #### **Internships**
 
-[Example](https://ca.linkedin.com/jobs/view/software-developer-at-dell-technologies-2451133989?refId=c0c2c709-05af-4b56-8a11-cad087a986ca&trackingId=x3cZR7ki%2FujB%2BL5v%2BHazrw%3D%3D&trk=public_jobs_topcard-title)
+[Example: Dell Technologies](https://ca.linkedin.com/jobs/view/software-developer-at-dell-technologies-2451133989?refId=c0c2c709-05af-4b56-8a11-cad087a986ca&trackingId=x3cZR7ki%2FujB%2BL5v%2BHazrw%3D%3D&trk=public_jobs_topcard-title)
 
 *Description*
 
@@ -154,7 +153,7 @@ Dell is looking for a Layer 2 Junior Software Developerto take part in a once in
 * Awareness of 3GPP and ORAN standards and interfaces
 * Organized, goal-oriented, self-starter, with a team focused mentality, and a desire to take you coding to the next level.
 
-#### **Leadership Training **
+#### **Leadership Training**
 Being a leader is crucial for any management role in order to guide your team to success and reach the goal. Leadership programs are designed to help new and experienced managers learn new techniques and refine old skills to run a team, communicate, motivate, and coach. Leadership training and skills is neccessary for people who have just stepped up to a new position to more experienced managers who want to keep on top of their game. The leader or manager should push their team to reach their full potential, bring out the best of each individual, and achieve career goals. 
 
 [Here](https://cmcoutperform.com/leadership) are some leadership courses offered all around Canada to help improve problem solving, decision making and critical thinking. 
