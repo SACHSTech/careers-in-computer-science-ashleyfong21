@@ -108,8 +108,27 @@ A Canadian university that offers entrance to a Computer Science program is the 
 
 ### **Experiential Learning Opportunities** 
 
-#### **Co-op**
+#### **Internships**
+Internships are a great way of gaining experience in the respective field or job of choice. You can also put your talents and skills to the test and how they might compare to others. Many internships are guided by a mentor or manager, so this is a great way to form relationships with already experienced employees, get advice, and a reference. 
 
+[Example: Dell Technologies](https://ca.linkedin.com/jobs/view/software-developer-at-dell-technologies-2451133989?refId=c0c2c709-05af-4b56-8a11-cad087a986ca&trackingId=x3cZR7ki%2FujB%2BL5v%2BHazrw%3D%3D&trk=public_jobs_topcard-title)
+
+*Description*
+
+Dell is looking for a Layer 2 Junior Software Developer to take part in a once in a career opportunity to be part of building something from scratch and shepherd it into the marketplace. The 5G Layer 2 Junior Software Developerwill be a team member of a brand new, built from the ground up R&D team, supported by amazing team members. The team will be responsible for designing, developing and implementing a technology new to Dell for addressing the demands of the 5G Radio subsystem for operators and to help our customers to exploit this significant market evolution.
+
+*Responsibilities*
+* Implement and test key Layer 2 features, algorithms and integrate them with the CU and RU and other features in the DU
+* Implement functional areas of the DU & other L2 SW, per the implementation plan
+* Work closely with the verification group to ensure the completeness, quality and performance of the implemented Layer 2 functionality
+
+*Requirements*
+* Fascination and curiosity to learn about 5G technology,
+* Awareness of 3GPP and ORAN standards and interfaces
+* Organized, goal-oriented, self-starter, with a team focused mentality, and a desire to take you coding to the next level.
+
+#### **Co-op**
+Co-op programs are very similar to internships since you are gaining experience and connecting with others in the same or similar field as you. However, most co-op is paid unlike interships. Many universities offer co-op as a part of the degree including the Univeristy of Waterloo's Computer Science. 
 
 [Example: Oracle Corporation](https://www.glassdoor.ca/job-listing/software-developer-co-op-oracle-JV_IC2286008_KO0,24_KE25,31.htm?jl=1007012418606&pos=103&ao=1136043&s=58&guid=0000017915b5c4758b498959e72d4f6d&src=GD_JOB_AD&t=SR&vt=w&cs=1_9ff4a643&cb=1619566904854&jobListingId=1007012418606&jrtk=1-1f4arbh543oht001-1f4arbh60u3ec800-879be92ff95e4564&ctt=1619566928352)
 
@@ -134,24 +153,6 @@ You will be responsible for designing, developing, troubleshooting and debugging
 * Strong critical thinking/problem solving skills
 * Strong interpersonal/communication skills
 * Co-op/intern or other industry experience in software is a plus
-
-#### **Internships**
-
-[Example: Dell Technologies](https://ca.linkedin.com/jobs/view/software-developer-at-dell-technologies-2451133989?refId=c0c2c709-05af-4b56-8a11-cad087a986ca&trackingId=x3cZR7ki%2FujB%2BL5v%2BHazrw%3D%3D&trk=public_jobs_topcard-title)
-
-*Description*
-
-Dell is looking for a Layer 2 Junior Software Developerto take part in a once in a career opportunity to be part of building something from scratch and shepherd it into the marketplace. The 5G Layer 2 Junior Software Developerwill be a team member of a brand new, built from the ground up R&D team, supported by amazing team members. The team will be responsible for designing, developing and implementing a technology new to Dell for addressing the demands of the 5G Radio subsystem for operators and to help our customers to exploit this significant market evolution.
-
-*Responsibilities*
-* Implement and test key Layer 2 features, algorithms and integrate them with the CU and RU and other features in the DU
-* Implement functional areas of the DU & other L2 SW, per the implementation plan
-* Work closely with the verification group to ensure the completeness, quality and performance of the implemented Layer 2 functionality
-
-*Requirements*
-* Fascination and curiosity to learn about 5G technology,
-* Awareness of 3GPP and ORAN standards and interfaces
-* Organized, goal-oriented, self-starter, with a team focused mentality, and a desire to take you coding to the next level.
 
 #### **Leadership Training**
 Being a leader is crucial for any management role in order to guide your team to success and reach the goal. Leadership programs are designed to help new and experienced managers learn new techniques and refine old skills to run a team, communicate, motivate, and coach. Leadership training and skills is neccessary for people who have just stepped up to a new position to more experienced managers who want to keep on top of their game. The leader or manager should push their team to reach their full potential, bring out the best of each individual, and achieve career goals. 
