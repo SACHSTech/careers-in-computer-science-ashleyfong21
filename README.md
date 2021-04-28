@@ -160,4 +160,20 @@ Being a leader is crucial for any management role in order to guide your team to
 [Here](https://cmcoutperform.com/leadership) are some leadership courses offered all around Canada to help improve problem solving, decision making and critical thinking. 
 
 ## **Works Cited** 
-saa
+“Amazon.ca.” Amazon, images-na.ssl-images-amazon.com/images/I/31%2BDgxPWXtL.jpg. 
+“Become a Software Development Manager.” Study.com, 14 Nov. 2020, study.com/articles/Software_Development_Manager_Information_About_Becoming_a_Software_Development_Manager.html#:~:text=Software%20development%20managers%20generally%20need,MBA%20for%20senior%2Dlevel%20positions. 
+“Computer Science.” UWaterloo, 6 Apr. 2021, uwaterloo.ca/future-students/programs/computer-science. 
+“Dell Technologies Software Developer .” LinkedIn , ca.linkedin.com/jobs/view/software-developer-at-dell-technologies-2451133989?refId=c0c2c709-05af-4b56-8a11-cad087a986ca&amp;trackingId=x3cZR7ki%2FujB%2BL5v%2BHazrw%3D%3D&amp;trk=public_jobs_topcard-title. 
+Edwards, Vanessa Van. “8 Skills All Leadership Trainings Should Teach Managers.” Science of People, 22 Apr. 2020, www.scienceofpeople.com/leadership-training/. 
+“Internships and Co-Ops: What's the Difference?” Career and Professional Development | Virginia Tech, 19 Sept. 2019, career.vt.edu/experience/ceip/ceip-internship-coop.html. 
+“Kortext.” Kortext.com, www.kortext.com/wp-content/uploads/2019/08/kortext-purple.svg. 
+“Leadership Courses Landing Page.” Canadian Management Centre, cmcoutperform.com/leadership. 
+“Logo.” Newsrooms , biz.prlog.org/SpeedLineSolutions/logo.jpg. 
+“Oracle Software Developer Co-Op Job in Kitchener .” Glassdoor, www.glassdoor.ca/job-listing/software-developer-co-op-oracle-JV_IC2286008_KO0,24_KE25,31.htm?jl=1007012418606&amp;pos=103&amp;ao=1136043&amp;s=58&amp;guid=0000017915b5c4758b498959e72d4f6d&amp;src=GD_JOB_AD&amp;t=SR&amp;vt=w&amp;cs=1_9ff4a643&amp;cb=1619566904854&amp;jobListingId=1007012418606&amp;jrtk=1-1f4arbh543oht001-1f4arbh60u3ec800-879be92ff95e4564&amp;ctt=1619566928352. 
+“Project Manager Role in Software Development.”  Lvivity , lvivity.com/wp-content/uploads/2019/09/project-manager.jpg. 
+“Software Development Manager - Abbotsford, BC.” Indeed, ca.indeed.com/viewjob?cmp=SpeedLine-Solutions-Inc.&amp;t=Software%2BDevelopment%2BManager&amp;jk=2ee7e61338d6a1de&amp;sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp2mgGx4Vnp4LSSA72WT-k1EUhaTn5DaYzBBHiGzAUTTCvONoYE9pH-TTWB2ywuXrY4&amp;tk=1f42ofic4t5dt801&amp;adid=367563199&amp;ad=-6NYlbfkN0AxK9PpRSCdz1a9_1O_Kxdozng6aUI21uswYithmJvazSA_wFhoZxi-UM-HOofY-eD-LGHZUIjbrwDgk0affkl_CxqmPEBbEbVDv4fhGndBAIIzilO1bZeIPXLavv90D0UVmnU2bS5DweZJyZDWv8BvjrLpz7X3hYWiGEpdFn9vRQJ3oRLgfng89jh6HFk6T1A80P-lpNVobN2246hWFV3o5wH9SxKDpu30Kb8K3pL9jQ3kQmR5gKCVQAfZb670iY2aRhkr6Y5I4__VeAKN6KyhsSwJLqQ0dhDv5VhdkikNVIOTblhT55T5vcIU0MX3VxO4R2QoV5xXrA%3D%3D&amp;pub=4a1b367933fd867b19b072952f68dceb&amp;vjs=3. 
+“Software Development Manager - Greater Toronto Area, ON .” Indeed , ca.indeed.com/viewjob?cmp=Kortext&amp;t=Software%2BDevelopment%2BManager&amp;jk=91337a87dd15b466&amp;sjdu=0ZFwD5rbjMRcHz87Kzx_g56RE8uTOzMI6lFRz5oKCG6jKXSJpNAiKq15MUxAzfb25EkT8GdeKrIg3Xi44zf0iA&amp;tk=1f3vt90e13kl8000&amp;adid=367673658&amp;ad=-6NYlbfkN0ATA-436Np_sDHyRyXgfnC7r. 
+“Software Development Manager Average Salary in Canada 2021.” Talent.com, ca.talent.com/salary?job=software%2Bdevelopment%2Bmanager#:~:text=The%20average%20software%20development%20manager%20salary%20in%20Canada%20is%20%24140%2C000,up%20to%20%24207%2C750%20per%20year. 
+“Software Development Manager II - ADCC-T9190.” Indeed, ca.indeed.com/viewjob?jk=27faa1d939e247e9&amp;tk=1f43d85c6t4a8801&amp;from=serp&amp;vjs=3. 
+“Software Development Manager Job Description.” Great Sample Resume, www.greatsampleresume.com/job-description/examples/computer-software/software-development-manager. 
+“Undergraduate Course Descriptions.” Waterloo Undergraduate Calendar, ugradcalendar.uwaterloo.ca/page/Course-Descriptions-Index. 
