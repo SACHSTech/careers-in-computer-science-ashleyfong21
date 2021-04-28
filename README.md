@@ -175,6 +175,8 @@ Being a leader is crucial for any management role in order to guide your team to
 
 “Dell Technologies Software Developer .” LinkedIn , ca.linkedin.com/jobs/view/software-developer-at-dell-technologies-2451133989?refId=c0c2c709-05af-4b56-8a11-cad087a986ca&amp;trackingId=x3cZR7ki%2FujB%2BL5v%2BHazrw%3D%3D&amp;trk=public_jobs_topcard-title. 
 
+“Dell-Technologies.” The Standard CIO , thestandardcio.com/wp-content/uploads/sites/2/2020/12/dell-technologies.png. 
+
 Edwards, Vanessa Van. “8 Skills All Leadership Trainings Should Teach Managers.” Science of People, 22 Apr. 2020, www.scienceofpeople.com/leadership-training/. 
 
 “Internships and Co-Ops: What's the Difference?” Career and Professional Development | Virginia Tech, 19 Sept. 2019, career.vt.edu/experience/ceip/ceip-internship-coop.html. 
@@ -184,6 +186,8 @@ Edwards, Vanessa Van. “8 Skills All Leadership Trainings Should Teach Managers
 “Leadership Courses Landing Page.” Canadian Management Centre, cmcoutperform.com/leadership. 
 
 “Logo.” Newsrooms , biz.prlog.org/SpeedLineSolutions/logo.jpg. 
+
+“Oracle Logo and Symbol, Meaning, History.” 1000 Logos, 1000logos.net/wp-content/uploads/2017/04/Color-Oracle-Logo.png. 
 
 “Oracle Software Developer Co-Op Job in Kitchener .” Glassdoor, www.glassdoor.ca/job-listing/software-developer-co-op-oracle-JV_IC2286008_KO0,24_KE25,31.htm?jl=1007012418606&amp;pos=103&amp;ao=1136043&amp;s=58&amp;guid=0000017915b5c4758b498959e72d4f6d&amp;src=GD_JOB_AD&amp;t=SR&amp;vt=w&amp;cs=1_9ff4a643&amp;cb=1619566904854&amp;jobListingId=1007012418606&amp;jrtk=1-1f4arbh543oht001-1f4arbh60u3ec800-879be92ff95e4564&amp;ctt=1619566928352. 
 
