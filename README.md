@@ -113,6 +113,8 @@ Internships are a great way of gaining experience in the respective field or job
 
 [Example: Dell Technologies](https://ca.linkedin.com/jobs/view/software-developer-at-dell-technologies-2451133989?refId=c0c2c709-05af-4b56-8a11-cad087a986ca&trackingId=x3cZR7ki%2FujB%2BL5v%2BHazrw%3D%3D&trk=public_jobs_topcard-title)
 
+![alt text](https://thestandardcio.com/wp-content/uploads/sites/2/2020/12/dell-technologies.png)
+
 *Description*
 
 Dell is looking for a Layer 2 Junior Software Developer to take part in a once in a career opportunity to be part of building something from scratch and shepherd it into the marketplace. The 5G Layer 2 Junior Software Developerwill be a team member of a brand new, built from the ground up R&D team, supported by amazing team members. The team will be responsible for designing, developing and implementing a technology new to Dell for addressing the demands of the 5G Radio subsystem for operators and to help our customers to exploit this significant market evolution.
@@ -131,6 +133,8 @@ Dell is looking for a Layer 2 Junior Software Developer to take part in a once i
 Co-op programs are very similar to internships since you are gaining experience and connecting with others in the same or similar field as you. However, most co-op is paid unlike interships. Many universities offer co-op as a part of the degree including the Univeristy of Waterloo's Computer Science. 
 
 [Example: Oracle Corporation](https://www.glassdoor.ca/job-listing/software-developer-co-op-oracle-JV_IC2286008_KO0,24_KE25,31.htm?jl=1007012418606&pos=103&ao=1136043&s=58&guid=0000017915b5c4758b498959e72d4f6d&src=GD_JOB_AD&t=SR&vt=w&cs=1_9ff4a643&cb=1619566904854&jobListingId=1007012418606&jrtk=1-1f4arbh543oht001-1f4arbh60u3ec800-879be92ff95e4564&ctt=1619566928352)
+
+![alt text](https://1000logos.net/wp-content/uploads/2017/04/Color-Oracle-Logo.png)
 
 *Description* 
 
