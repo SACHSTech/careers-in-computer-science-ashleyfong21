@@ -14,14 +14,14 @@ To become a software development manager, a bachelor's degree in Computer Scienc
 
 ### **Required Skills and Qualities**
 
-#### Technical 
+#### **Technical **
 * strong technical and analytic skills 
 * expert knowledge of programming languages, platforms, and methods 
 * troubleshooting skills 
 * assess complex programming applications 
 * adaptable to keep up with new software and systems 
 
-#### Non-Technical 
+#### **Non-Technical **
 * excellent written and verbal communication skills 
 * collaboration skills to work with others in the team 
 * strong budgeting and managerial skills 
@@ -73,7 +73,7 @@ The average software development manager salary in Canada is $140,000 per year o
 ### **Example Post Secondary Education**
 A Canadian university that offers entrance to a Computer Science program is the University of Waterloo. They also offer the degree with a co-op option. 
 
-#### Entrance Requirments 
+#### **Entrance Requirments **
 * six Grade 12 U and/or M level courses
 * must include: 
   * Advanced Functions
@@ -82,7 +82,7 @@ A Canadian university that offers entrance to a Computer Science program is the 
   * One other 4 U course 
 * Average in the low 90s 
 
-#### First Year Programs 
+#### **First Year Programs **
 | **Course Code and Name** | **Description** |
 | --------------- | ----------------|
 | CS 135 - Designing Functional Programs | An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. | 
@@ -92,7 +92,7 @@ A Canadian university that offers entrance to a Computer Science program is the 
 | MATH 136 - Linear Algebra I | Systems of linear equations, matrix algebra, elementary matrices, computational issues. Real n-space, vector spaces and subspaces, basis and dimension, rank of a matrix, linear transformations, and matrix representations. Determinants, eigenvalues and diagonalization, applications. |
 | MATH 138 - Calculus II | Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. | 
 
-#### Other Mandatory Courses to Complete
+#### **Other Mandatory Courses to Complete**
 | **Course Code and Name** | **Description** |
 | --------------- | ----------------|
 | CS 246 - Object-Oriented Software Development | Introduction to object-oriented programming and to tools and techniques for software development. Designing, coding, debugging, testing, and documenting medium-sized programs: reading specifications and designing software to implement them; selecting appropriate data structures and control structures. 
@@ -102,16 +102,16 @@ A Canadian university that offers entrance to a Computer Science program is the 
 | CS 251 - Computer Organization and Design | Overview of computer organization and performance. Basics of digital logic design. Combinational and sequential elements. Data representation and manipulation. Basics of processor design. Pipelining. Memory hierarchies. Multiprocessors.
 | MATH 239 - Introduction to Combinatorics | Introduction to graph theory: colourings, matchings, connectivity, planarity. Introduction to combinatorial analysis: generating series, recurrence relations, binary strings, plane trees. | 
 
-#### Length of Time to Finish 
+#### **Length of Time to Finish**
 * 4 Years 
 * 5 Years with Co-op Program 
 
 ### **Experiential Learning Opportunities** 
 
 #### **Co-op**
-dssd
 
-[*Example*](https://www.glassdoor.ca/job-listing/software-developer-co-op-oracle-JV_IC2286008_KO0,24_KE25,31.htm?jl=1007012418606&pos=103&ao=1136043&s=58&guid=0000017915b5c4758b498959e72d4f6d&src=GD_JOB_AD&t=SR&vt=w&cs=1_9ff4a643&cb=1619566904854&jobListingId=1007012418606&jrtk=1-1f4arbh543oht001-1f4arbh60u3ec800-879be92ff95e4564&ctt=1619566928352)
+
+[Example](https://www.glassdoor.ca/job-listing/software-developer-co-op-oracle-JV_IC2286008_KO0,24_KE25,31.htm?jl=1007012418606&pos=103&ao=1136043&s=58&guid=0000017915b5c4758b498959e72d4f6d&src=GD_JOB_AD&t=SR&vt=w&cs=1_9ff4a643&cb=1619566904854&jobListingId=1007012418606&jrtk=1-1f4arbh543oht001-1f4arbh60u3ec800-879be92ff95e4564&ctt=1619566928352)
 
 *Description* 
 
